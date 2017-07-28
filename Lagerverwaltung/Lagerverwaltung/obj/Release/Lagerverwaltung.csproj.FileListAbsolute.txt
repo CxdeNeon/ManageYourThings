@@ -1,0 +1,10 @@
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Release\Lagerverwaltung.exe.config
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Release\Lagerverwaltung.exe
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Release\Lagerverwaltung.pdb
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Release\Lagerverwaltung.csprojResolveAssemblyReference.cache
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Release\Lagerverwaltung.exe
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Release\Lagerverwaltung.pdb
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Release\Lagerverwaltung.exe.manifest
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Release\Lagerverwaltung.application
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Release\Lagerverwaltung.exe.manifest
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Release\Lagerverwaltung.application

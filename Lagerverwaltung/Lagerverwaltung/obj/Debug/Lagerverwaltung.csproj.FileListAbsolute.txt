@@ -1,0 +1,6 @@
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Debug\Lagerverwaltung.exe.config
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Debug\Lagerverwaltung.exe
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\bin\Debug\Lagerverwaltung.pdb
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Debug\Lagerverwaltung.csprojResolveAssemblyReference.cache
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Debug\Lagerverwaltung.exe
+C:\Users\felix\documents\visual studio 2017\Projects\LagerVerwaltung\Lagerverwaltung\obj\Debug\Lagerverwaltung.pdb

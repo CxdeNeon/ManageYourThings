@@ -14,11 +14,11 @@ namespace Lagerverwaltung
             String kat1;
             String kat2;
             String kat3;
-            String fileone = @"C:\Users\felix\Desktop\lager\kategorie1.txt"; ;
-            String filetwo = @"C:\Users\felix\Desktop\lager\kategorie2.txt";
-            String filethree = @"C:\Users\felix\Desktop\lager\kategorie3.txt";
-            String directorypath = @"C:\Users\felix\Desktop\lager";
-            String filepath = @"C:\Users\felix\Desktop\lager\mainlist.txt";
+            String fileone = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\lager\kategorie1.txt"; ;
+            String filetwo = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\lager\kategorie2.txt";
+            String filethree = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\lager\kategorie3.txt";
+            String directorypath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\lager";
+            String filepath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\lager\mainlist.txt";
 
             
 
